@@ -3,7 +3,7 @@ Incorporate Deep Learning into GNU Radio
 
 ### Author
 <p align="center">
-<img src="//www.deepwavedigital.net/logos/deepwave-logo-2-white.png" Width="50%" />
+<img src="www.deepwavedigital.net/logos/deepwave-logo-2-white.png" Width="50%" />
 </p>
 
 This software is written by **Deepwave Digital, Inc.** [www.deepwavedigital.com]().
